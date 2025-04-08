@@ -1,0 +1,12 @@
+[submodule "i3/blackarch-config-i3"]
+	path = i3/blackarch-config-i3
+	url = https://github.com/BlackArch/blackarch-config-i3
+[submodule "awesome/blackarch-config-awesome"]
+	path = awesome/blackarch-config-awesome
+	url = https://github.com/BlackArch/blackarch-config-awesome
+[submodule "zsh/blackarch-config-zsh"]
+	path = zsh/blackarch-config-zsh
+	url = https://github.com/BlackArch/blackarch-config-zsh.git
+[submodule "bash/blackarch-config-bash"]
+	path = bash/blackarch-config-bash
+	url = https://github.com/BlackArch/blackarch-config-bash.git
